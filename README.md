@@ -1,5 +1,7 @@
 # test_django_CustomCommand
 Djangoカスタムコマンド練習用
+基本デフォルト
+newapp/management/commands内だけを編集して動作を確認
 
 ## 概要
 
